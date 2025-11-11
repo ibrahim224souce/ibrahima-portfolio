@@ -12,10 +12,8 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Identified missed appointment trends (DNA) and compared regions over time.
 - Recommended strategies to improve attendance and efficiency.
 
-📄 [Notebook](NHS_Data_Insights_Project/
-Stock_Earnings_Analysis_Project/
-Turtle_Reviews_Analysis_Project/)
-
+📘 [Notebook](ibrahima-portfolio/NHS_Data_Insights_Project/ibrahima_nhs_analysis.ipynb)
+📄 [Report](ibrahima-portfolio/NHS_Data_Insights_Project/NHS_Data_Insights_Project.pdf)
 
 ### Stock Earnings Analysis
 **Goal:** Measure stock market reactions to earnings announcements for AAPL, GOOGL, and NVDA.  
