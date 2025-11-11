@@ -13,7 +13,8 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Recommended strategies to improve attendance and efficiency.
 
 📘 [Notebook](NHS_Data_Insights_Project/ibrahima_nhs_analysis.ipynb1.ipynb)
- 📄 [Report](NHS_Data_Insights_Project/NHS Data Insights Projec.pdf)
+ 📄 [Report](NHS_Data_Insights_Project/NHS_Data_Insights_Projec.pdf)
+
  
 ### Stock Earnings Analysis
 **Goal:** Measure stock market reactions to earnings announcements for AAPL, GOOGL, and NVDA.  
