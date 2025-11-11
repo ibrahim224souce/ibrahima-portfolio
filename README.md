@@ -13,7 +13,7 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Recommended strategies to improve attendance and efficiency.
 
 📘 [Notebook](NHS_Data_Insights_Project/ibrahima_nhs_analysis.ipynb1.ipynb)
- 📄 [Report](NHS_Data_Insights_Project/NHS_Data_Insights_Projec.pdf)
+ 📄 [Report](Stock_Earnings_Analysis_Project/Stock_Earnings_Analysis_Report.pdf)
 
  
 ### Stock Earnings Analysis
@@ -24,7 +24,7 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Delivered insights useful for investment decision-making and hedge fund analysis.
 
 📄 [Notebook](Stock_Earnings_Analysis_Project/Stock_Earnings_Analysis.ipynb)  
-📘 [Report](Stock_Earnings_Analysis/Stock_Earnings_Report.pdf)
+📘 [Report](Stock_Earnings_Analysis_Project/Stock_Earnings_Analysis_Report.pdf)
 
 ### Turtle Reviews Data Analysis
 **Goal:** Explore customer loyalty, spending behavior, and gender patterns.  
@@ -33,8 +33,8 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Visualized loyalty distribution, remuneration vs spending, and gender differences.
 - Recommended data-driven retention strategies based on spending clusters.
 
-📄 [Notebook](Turtle_Reviews_Analysis/Turtle_Reviews_Data_Analysis.ipynb)  
-📘 [Report](Turtle_Reviews_Analysis/Turtle_Reviews_Data_Analysis_Project.pdf)
+📄 [Notebook](Turtle_Reviews_Analysis_Project/turtle.ipynb)  
+📘 [Report](Turtle_Reviews_Analysis_Project/Turtle_Reviews_Data_Analysis_Project.pdf)
 
 
 ## ⚙️ Tools & Skills
