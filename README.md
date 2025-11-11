@@ -12,8 +12,9 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Identified missed appointment trends (DNA) and compared regions over time.
 - Recommended strategies to improve attendance and efficiency.
 
-📄 [Notebook](NHS_Data_Insights_Project/ibrahima_nhs_analysis.ipynb)  
-📘 [Report](NHS_Data_Insights_Project/NHS_Data_Insights_Project.pdf)
+📄 [Notebook](NHS_Data_Insights_Project/
+Stock_Earnings_Analysis_Project/
+Turtle_Reviews_Analysis_Project/)
 
 
 ### Stock Earnings Analysis
