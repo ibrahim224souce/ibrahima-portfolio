@@ -22,7 +22,7 @@ Here I showcase real-world projects built using ** Excel, Python, R, SQL **, foc
 - Found NVDA exhibits the strongest post-earnings price movement.
 - Delivered insights useful for investment decision-making and hedge fund analysis.
 
-📄 [Notebook](Stock_Earnings_Analysis/Stock_Earnings_Analysis.ipynb)  
+📄 [Notebook](Stock_Earnings_Analysis_Project/Stock_Earnings_Analysis(3).ipynb)  
 📘 [Report](Stock_Earnings_Analysis/Stock_Earnings_Report.pdf)
 
 ### Turtle Reviews Data Analysis
